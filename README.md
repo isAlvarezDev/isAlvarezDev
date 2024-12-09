@@ -5,7 +5,7 @@
 </p>
 
 <h2>
-    <img src="img/greeting.gif" alt="a logo greeting" width="35" align="center"/>
+    <img src="img/greeting.gif" alt="a logo greeting" width="39" align="center"/>
     About Me
 </h2>
 
