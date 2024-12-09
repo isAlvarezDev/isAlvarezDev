@@ -1,12 +1,23 @@
-![Isaac GitHub Banner](img/github-banner.png)
+![Isaac GitHub Banner](img/github-banner.webp)
 
 <p align="center">
     <a href="https://github.com/isAlvarezDev"><img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&weight=700&size=26&duration=4300&pause=450&color=3DACF1&center=true&vCenter=true&width=501&lines=Hello%2C+everyone.+Nice+to+meet+you!;I'm+here+to+learn%2C+share+and+build;Amazing+things+with+you+all;Have+a+good+day!" alt="Typing SVG" /></a>
 </p>
 
 <h2>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZzYnN5cm1td2p3amRvOXBiNmpkNWwyYzJwMjZna3pwamlvYTR4aSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kL3ZvNKk4hyR1B8hVt/giphy.gif" alt="tools gif" align="center" width="30"/>
-    My Favorite Fools
+    <img src="img/greeting.gif" alt="a logo greeting" width="35" align="center"/>
+    About Me
+</h2>
+
+💻 **Software Engineer** eager to apply my skills and knowledge to build innovative solutions. </br>
+👨‍🎓 **Studied Systems Engineering** at [Universidad Bicentenaria de Aragua](https://uba.edu.ve/). </br>
+📚 Currently focusing on mastering [**React**](https://react.dev/learn) development to create dynamic and user-friendly web applications. </br>
+➡️ Following the [**roadmap.sh**](https://roadmap.sh/frontend) guide to expand my skill set. </br>
+💼 **Open to new opportunities!** Looking for a challenging role where I can contribute to a talented team and make a real impact on the world.
+
+<h2>
+    <img src="img/tools.gif" alt="tools gif" align="center" width="30"/>
+    My Favorite Tools
 </h2>
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -21,7 +32,7 @@
 [![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)](https://prettier.io/)
 
 <h2>
-    <img src="https://media.giphy.com/media/9A4VXopO66WMraBtss/giphy.gif?cid=790b7611khdv2as42jizsj0p8itfang25iq48pvmmrz8hf5q&ep=v1_stickers_search&rid=giphy.gif&ct=s" align="center" width="27" alt="stats gif"/>
+    <img src="img/stats.gif" align="center" width="27" alt="stats gif"/>
     Stats
 </h2>
 
