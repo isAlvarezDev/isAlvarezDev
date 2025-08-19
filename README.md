@@ -1,11 +1,11 @@
-![Isaac GitHub Banner](img/github-banner.webp)
+![Isaac GitHub Banner](images/github-banner.webp)
 
 <p align="center">
     <a href="https://github.com/isAlvarezDev"><img src="https://readme-typing-svg.demolab.com?font=Anonymous+Pro&weight=700&size=26&duration=4300&pause=450&color=3DACF1&center=true&vCenter=true&width=501&lines=Hello%2C+everyone.+Nice+to+meet+you!;I'm+here+to+learn%2C+share+and+build;Amazing+things+with+you+all;Have+a+good+day!" alt="Typing SVG" /></a>
 </p>
 
 <h2>
-    <img src="img/greeting.gif" alt="a logo greeting" width="39" align="center"/>
+    <img src="images/greeting.gif" alt="a logo greeting" width="39" align="center"/>
     About Me
 </h2>
 
@@ -19,17 +19,17 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="img/breakout-dark.svg"
+    srcset="images/breakout-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="img/breakout-light.svg"
+    srcset="images/breakout-light.svg"
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
 
 <h2>
-    <img src="img/tools.gif" alt="tools gif" align="center" width="30"/>
+    <img src="images/tools.gif" alt="tools gif" align="center" width="30"/>
     My Favorite Tools
 </h2>
 
@@ -50,7 +50,7 @@
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
 <h2>
-    <img src="img/stats.gif" align="center" width="27" alt="stats gif"/>
+    <img src="images/stats.gif" align="center" width="27" alt="stats gif"/>
     Stats
 </h2>
 
