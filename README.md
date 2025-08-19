@@ -16,6 +16,18 @@
 ➡️ Following the [**roadmap.sh**](https://roadmap.sh/frontend) guide to expand my skill set. <br />
 💼 **Open to new opportunities!** Looking for a challenging role where I can contribute to a talented team and make a real impact on the world.
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+
 <h2>
     <img src="img/tools.gif" alt="tools gif" align="center" width="30"/>
     My Favorite Tools
