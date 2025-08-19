@@ -1,4 +1,4 @@
-name: generate breakout svg
+name: Update GitHub Breakout Stats
 
 on:
   schedule:
