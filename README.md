@@ -9,13 +9,13 @@
     About Me
 </h2>
 
-🌍  I'm based in **Aragua**, **Venezuela**.<br />
-💻 **Software Engineer** eager to apply my skills and knowledge to build innovative solutions. <br />
-👨‍🎓 **Studied Systems Engineering** at [Universidad Bicentenaria de Aragua](https://uba.edu.ve/). <br />
-📚 Currently focusing on mastering [**React**](https://react.dev/learn) development to create dynamic and user-friendly web applications. <br />
-➡️ Following the [**roadmap.sh**](https://roadmap.sh/frontend) guide to expand my skill set. <br />
-💼 **Open to new opportunities!** Looking for a challenging role where I can contribute to a talented team and make a real impact on the world.
-
+```javascript
+🌍 let located = "I'm based in Aragua, Venezuela."
+👨‍🎓 const education = "Systems Engineer at Universidad Bicentenaria de Aragua"
+📚 let currentLearning= "Several technologies now to create dynamic and user-friendly web applications."
+➡️ let guide = "Following the roadmap.sh guide to expand my skill set"
+💼 let availability = print("Open to new opportunities! Looking for a challenging role where I can contribute to a talented team and make a real impact on the world.")
+```
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
